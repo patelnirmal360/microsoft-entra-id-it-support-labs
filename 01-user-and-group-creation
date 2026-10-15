@@ -1,8 +1,30 @@
+# Lab 01 — Introduction to Microsoft Entra ID
 
-What is Entra ID?
-Entra ID is cloud based user identity and access management service. Almost similar as active directory but active directory ADDS is used for company's local environment but to access the resources while from cloud we need Entra ID  
+Welcome to the first lab of my Microsoft Entra ID learning journey.
 
+Before learning any new technology, I like to ask myself one simple question: **Why am I learning this?**
 
+Rather than jumping straight into technical concepts, I want to understand why this technology matters and how it is used in real-world IT environments.
+
+## Why am I learning Microsoft Entra ID?
+
+My goal is to build a career as a **Service Desk Analyst or IT Support Engineer**.
+
+While exploring the skills required for these roles, I came across Microsoft Entra ID, which organisations use to manage employee identities, authentication, and access to applications.
+
+As an IT Support professional, I may need to create user accounts, reset passwords, manage group memberships, troubleshoot sign-in issues, and support employees with access-related problems.
+
+That's why I've decided to learn Microsoft Entra ID through practical, hands-on labs rather than just studying the theory.
+
+## What is Microsoft Entra ID?
+
+Microsoft Entra ID is a cloud-based Identity and Access Management (IAM) service that helps organisations manage user identities and control access to applications and resources.
+
+It serves a similar purpose to traditional Active Directory Domain Services (AD DS), but there is an important difference.
+
+Traditional AD DS primarily manages users, computers, and resources within an organisation's Windows domain environment, while Microsoft Entra ID focuses on managing identities and providing secure access to cloud-based applications such as Microsoft 365, Teams, and SharePoint.
+
+**In simple words:** AD DS is primarily designed for traditional Windows domain environments, whereas Entra ID is designed for modern cloud identity and access management.
 
 | Lab | Topic | Status |
 |---|---|---|
