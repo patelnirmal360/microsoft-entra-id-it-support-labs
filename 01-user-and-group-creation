@@ -1,3 +1,4 @@
+
 # Lab 01 — Introduction to Microsoft Entra ID
 
 Welcome to the first lab of my Microsoft Entra ID learning journey.
@@ -16,11 +17,18 @@ As an IT Support professional, I may need to create user accounts, reset passwor
 
 That's why I've decided to learn Microsoft Entra ID through practical, hands-on labs rather than just studying the theory.
 
+##what is the need of this tools?
+Have you ever seen in a library that every computer in library has same wallpaper and when you try to change it doesnt allow you to change the wallpaper. Thats the magic of Active directory or Entra ID 
+For example :Assume that you start company named Dummy Corporation and when you started a company you have only few users and computers to manage let say at that time you were just having 4 computers and 10 users but after years your comany started to grow and you hired more 100 employees to support your company. Now managing 110 employees is difficult task. so thats when tools like active directory comes into the picture.
+
+
 ## What is Microsoft Entra ID?
 
 Microsoft Entra ID is a cloud-based Identity and Access Management (IAM) service that helps organisations manage user identities and control access to applications and resources.
 
 It serves a similar purpose to traditional Active Directory Domain Services (AD DS), but there is an important difference.
+Now the question is what is traditional active directory and how does it works?
+Active Directory is a directory service for windows network environments. It asts as an central database for the information about the user, computer, groups and other objects in the environment. The core servie AD provides are authentication and authorization.
 
 Traditional AD DS primarily manages users, computers, and resources within an organisation's Windows domain environment, while Microsoft Entra ID focuses on managing identities and providing secure access to cloud-based applications such as Microsoft 365, Teams, and SharePoint.
 
