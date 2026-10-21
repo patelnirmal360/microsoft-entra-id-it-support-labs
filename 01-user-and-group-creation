@@ -141,3 +141,8 @@ I think of it this way:
 Understanding this difference is important for an IT Support role because many support tasks involve working with user accounts, authentication, groups, permissions, and application access.
 
 This is also the foundation for the next labs, where I will start working with **users, groups, authentication, and access management in Microsoft Entra ID**.
+
+## what is user?
+A user in Microsoft Entra ID represents a person or identity that needs to access an organisation's applications and resources.
+A user provides authentication information, such as a username and password or another authentication method, to prove their identity.
+Once the user is authenticated, Entra ID can determine what applications and resources the user is authorized to access based on their assigned permissions, roles, group memberships, and access policies. 
