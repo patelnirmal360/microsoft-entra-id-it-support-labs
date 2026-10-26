@@ -130,3 +130,9 @@ A user in Microsoft Entra ID represents a person or identity that needs to acces
 A user provides authentication information, such as a username and password or another authentication method, to prove their identity.
 Once the user is authenticated, Entra ID can determine what applications and resources the user is authorized to access based on their assigned permissions, roles, group memberships, and access policies. 
 
+##How to create user?
+- step 1: Go to https://entra.microsoft.com/
+- ![Alt text](01-users/images/usercreation.png)
+- step 2: In left vertical menu Go to users then on top horizontal menu click the New User> create new user
+- step 3: 
+
