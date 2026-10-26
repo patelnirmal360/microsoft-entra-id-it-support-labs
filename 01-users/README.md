@@ -125,25 +125,8 @@ The easiest way I understand the difference is:
 | Manages | Users, computers, groups, resources | Users, groups, applications, devices, access |
 | Example | Logging into a company Windows domain | Signing into Microsoft 365 |
 
-However, organisations do not necessarily have to choose one or the other.
-
-A company can use **both AD DS and Microsoft Entra ID** in a hybrid environment.
-
-For example, an organisation may still have on-premises Windows computers and servers while also using Microsoft 365 and other cloud applications.
-
----
-
-## In simple words
-
-I think of it this way:
-
-> **Active Directory helps organisations manage identities and resources in a traditional Windows domain environment, while Microsoft Entra ID helps organisations manage identities and access to cloud applications and services.**
-
-Understanding this difference is important for an IT Support role because many support tasks involve working with user accounts, authentication, groups, permissions, and application access.
-
-This is also the foundation for the next labs, where I will start working with **users, groups, authentication, and access management in Microsoft Entra ID**.
-
 ## what is user?
 A user in Microsoft Entra ID represents a person or identity that needs to access an organisation's applications and resources.
 A user provides authentication information, such as a username and password or another authentication method, to prove their identity.
 Once the user is authenticated, Entra ID can determine what applications and resources the user is authorized to access based on their assigned permissions, roles, group memberships, and access policies. 
+
