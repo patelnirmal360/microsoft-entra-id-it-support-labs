@@ -132,7 +132,12 @@ Once the user is authenticated, Entra ID can determine what applications and res
 
 ##How to create user?
 - step 1: Go to https://entra.microsoft.com/
-- ![Alt text](01-users/images/usercreation.png)
-- step 2: In left vertical menu Go to users then on top horizontal menu click the New User> create new user
-- step 3: 
+  ![Alt text](01-users/images/usercreation.png)
+- step 2: See above image and In left vertical menu Go to users then on top horizontal menu click the New User> create new user
+  ![Alt text](01-users/images/usercreation2.png)
+- step 3: The first section of user creation is Basics in which you have to give the name of user and select the company domain name right next to the userprincipal name and below that is nickname which acts as real world nickname if you want to give else you can leave check box dervied from principal user name checked. Now give the Display name and leave everything else as it is. Click Next
+ ![Alt text](01-users/images/usercreation3.png)
+ ![Alt text](01-users/images/usercreation4.png)
+ ![Alt text](01-users/images/usercreation5.png)
+Congratulations...🫡 you have created a user
 
